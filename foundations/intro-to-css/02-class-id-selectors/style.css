@@ -1,0 +1,19 @@
+.oddnumbered {
+background-color: rgb(255, 0, 98);
+font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blue {
+    color: hsl(246, 100%, 50%);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#green {
+    background-color: #00ff4cc7;
+    font-size: 24px;
+    font-weight: bold;
+}
